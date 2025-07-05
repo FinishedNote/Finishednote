@@ -1,12 +1,10 @@
-# Raph
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Salut%2C+moi+c'est+Raph_;Étudiant+en+informatique_;Passionné+par+le+code_;" alt="Typing SVG" />
-</h1>
-
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=ton-username&style=flat&label=👀+Profil+views" alt="Profile Views" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Salut%2C+moi+c'est+Raph_;Étudiant+en+informatique_;" alt="Typing SVG" />
+</h1>
 
 ## 🧰 Stack actuelle :
 
