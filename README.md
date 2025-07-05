@@ -6,15 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Salut%2C+moi+c'est+Raph_;Étudiant+en+informatique_;" alt="Typing SVG" />
 </h1>
 
-> cat skills.txt
-Langages:        Python, JavaScript, TypeScript, HTML/CSS, Bash
-Frontend:        React, TailwindCSS, Next.js (en cours)
-Backend:         Node.js, Express, SQL
-Outils:          Git, Linux, VS Code, Docker (WIP)
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,git,linux)
+![Learning](https://skillicons.dev/icons?i=nextjs,tailwind,docker,mysql)
 
 ---
 
-## 📂 Projets à ne pas rater :
+## 📂 Projets:
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
