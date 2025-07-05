@@ -22,7 +22,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical" alt="Raph's GitHub stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ton-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
