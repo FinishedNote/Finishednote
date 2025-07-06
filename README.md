@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ton-username&style=flat&label=👀+Profil+views" alt="Profile Views" />
 </p>
 
