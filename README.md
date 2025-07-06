@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ton-username&style=flat&label=👀+Profil+views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=finishednote&style=flat&label=👀+Profil+views" alt="Profile Views" />
 </p>
 
 <h1 align="center">
@@ -26,9 +26,9 @@
 ## 📈 GitHub Stats
 
 <p flex>
-  <img src="https://github-readme-stats.vercel.app/api?username=finishednote842&show_icons=true&theme=dark" alt="Raph's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=finishednote&show_icons=true&theme=dark" alt="Raph's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=finishednote842&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=finishednote&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 </p>
 
 ---
