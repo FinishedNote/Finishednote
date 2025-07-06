@@ -8,7 +8,7 @@
 
 ## 🧰 Stack actuelle :
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,git,linux)
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,sass,django,threejs,svelte,bash,git,linux)
 ![Learning](https://skillicons.dev/icons?i=nextjs,tailwind,docker,mysql)
 
 ---
