@@ -17,7 +17,7 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [Portfolio]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://portfolio-raphael-miroir.vercel.app/)) | Mon portfolio (en cours de construction) | React, scss, threejs, gsao |
+| [Portfolio](https://portfolio-raphael-miroir.vercel.app/) | Mon portfolio (en cours de construction) | React, scss, threejs, gsao |
 | [Projet perso](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Le projet | React, TypeScript, tailwind, threejs, framer motion |
 
 ---
