@@ -17,9 +17,8 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [MonPortfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Mon site vitrine perso, responsive et animé | React, Tailwind, Framer Motion |
-| [AlgoChallenge](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Collection de problèmes d'algo résolus avec explications | Python |
-| [Le projet](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Le projet | React, TypeScript |
+| [Portfolio]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://portfolio-raphael-miroir.vercel.app/)) | Mon portfolio (en cours de construction) | React, scss, threejs, gsao |
+| [Projet perso](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Le projet | React, TypeScript, tailwind, threejs, framer motion |
 
 ---
 
