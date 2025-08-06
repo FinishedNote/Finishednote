@@ -8,8 +8,8 @@
 
 ## 🧰 Stack:
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,redux,json,jquery,nodejs,html,css,sass,figma,django,threejs,svelte,bash,git,linux)
-![Learning](https://skillicons.dev/icons?i=nextjs,tailwind,docker,mysql)
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,redux,jquery,nodejs,html,css,sass,tailwind,figma,django,mongodb,threejs,svelte,bash,git,linux)
+![Learning](https://skillicons.dev/icons?i=nextjs,docker,mysql)
 
 ---
 
