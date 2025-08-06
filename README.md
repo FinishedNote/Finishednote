@@ -8,7 +8,7 @@
 
 ## 🧰 Stack:
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,redux,nextjs,mysql,jquery,nodejs,html,css,sass,tailwind,figma,django,mongodb,threejs,svelte,view,bash,git,linux)
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,redux,nextjs,mysql,jquery,nodejs,html,css,sass,tailwind,figma,django,mongodb,threejs,svelte,vue,bash,git,linux)
 ---
 
 ## 📂 Projets:
