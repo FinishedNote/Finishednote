@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=79FF97&center=true&vCenter=true&width=435&lines=Salut%2C+moi+c'est+Raph_;Étudiant+en+informatique_;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=79FF97&center=true&vCenter=true&width=435&lines=Salut%2C+moi+c'est+Raphael_;Étudiant+en+informatique_;" alt="Typing SVG" />
 </h1>
 
 ## 🧰 Stack:
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,redux,nextjs,mysql,jquery,nodejs,html,css,sass,tailwind,figma,django,mongodb,threejs,svelte,vue,bash,git,linux)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,figma,js,ts,react,redux,nextjs,mysql,jquery,nodejs,python,django,mongodb,threejs,svelte,vue,bash,git,linux)
 ---
 
 ## 📂 Projets:
