@@ -19,7 +19,7 @@
 | [Site web](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Projet perso web (en cours de construction) | React, TypeScript, Tailwind, Threejs, Framer motion |
 | [Outil CLI](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Projet perso osint (en cours de construction) | Python, Numpy, SQLite |
 | [Extension web](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Projet perso web (pratiquement terminé) | Html, Css, Js |
-| [App mobile](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Projet perso mobile (en cours de construction) | React native, Tailwind, Stripe, PostgreSQL |
+| [App mobile](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | Projet perso mobile (en cours de construction) | React native, Tailwind, Stripe, Convex, Clerk |
 
 ---
 
